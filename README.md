@@ -2,27 +2,15 @@
 
 > **Technical Product Manager** focado em estruturar produtos que resolvem problemas reais. Minha atuação conecta estratégia de negócio, arquitetura técnica e operação, garantindo que a execução esteja sempre alinhada ao valor entregue.
 
+![Banner](src/img/banner.png)
+
 ---
 
 ## 🚀 Como eu penso produto
 
 Acredito que a tecnologia é o meio para viabilizar soluções, não o fim. Meu ciclo de trabalho reflete essa visão de **Product Discovery contínuo**:
 
-```mermaid
-graph LR
-    A[Discover] --> B[Define]
-    B --> C[Architect]
-    C --> D[Build]
-    D --> E[Operate]
-    E --> F[Learn]
-    F --> A
-    style A fill:#4CAF50,stroke:#2E7D32,stroke-width:2px,color:white
-    style B fill:#2196F3,stroke:#1565C0,stroke-width:2px,color:white
-    style C fill:#9C27B0,stroke:#7B1FA2,stroke-width:2px,color:white
-    style D fill:#FF9800,stroke:#EF6C00,stroke-width:2px,color:white
-    style E fill:#F44336,stroke:#C62828,stroke-width:2px,color:white
-    style F fill:#607D8B,stroke:#455A64,stroke-width:2px,color:white
-```
+![Ciclo de Trabalho](src/img/ciclo_de_trabalho.png)
 
 | Etapa | Foco da Atuação |
 | :--- | :--- |
