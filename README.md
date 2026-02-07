@@ -1,9 +1,9 @@
-![Banner](src/img/banner.png)
 
 # Olá, sou o Deivid 👋
 
 **Technical Product Manager** focado em estruturar produtos que resolvem problemas reais. Minha atuação conecta estratégia de negócio, arquitetura técnica e operação, garantindo que a execução esteja sempre alinhada ao valor entregue.
 
+![Banner](src/img/banner.png)
 
 ---
 
